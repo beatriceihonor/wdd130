@@ -72,7 +72,7 @@ h1 {
 .hero article {
     position: absolute;
     top: 100px;
-    background-color: var(--accent1-color);
+    background-color: var(--accent2-color)
 }
 
 .hero article img {
