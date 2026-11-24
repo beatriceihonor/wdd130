@@ -19,7 +19,8 @@
 
 body {
     font-family: var(--body-font);
-    color: var(--accent2-color);
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
 }
 
 header,
@@ -85,4 +86,8 @@ h1 {
 .socialmedia img {
     width: 50px;
     height: auto;
+}
+
+h2 {
+    background-color: var(--accent1-color);
 }
